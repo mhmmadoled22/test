@@ -1,0 +1,4 @@
+while tru do
+getgenv().MissionType = "Pizza" -- Pizza or Mail
+
+loadstring(game:HttpGet(("https://pastebin.com/raw/HGvTt4Ef")))()
